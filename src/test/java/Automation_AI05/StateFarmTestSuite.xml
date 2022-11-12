@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="StateFarmTestSuite">
+    <test name="StateFarm and USBank" preserve-order="true">
+        <classes>
+            <class name="Automation_AI05.StateFarm_USBank_BusinessBanking" />
+            <class name="Automation_AI05.StateFarm_USBank_PersonalBanking" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+

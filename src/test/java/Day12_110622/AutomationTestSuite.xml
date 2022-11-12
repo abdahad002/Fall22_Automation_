@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Google And Yahoo Scenarios" preserve-order="true">
+        <classes>
+            <class name="Day12_110622.T2_GoogleSearch_ReusableAnnotations" />
+            <class name="Day12_110622.T3_YahooScenario_ReusableAnnotation" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
